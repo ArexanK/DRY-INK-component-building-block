@@ -78,6 +78,7 @@ const nextSlide = () => {
 
 const prevSlide = () => {
   currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+};
 
   </script>
   
