@@ -2,8 +2,12 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
+## INK- Carrousel- component 
 
+<img width="1248" alt="Screenshot 2023-11-16 at 23 43 00" src="https://github.com/ArexanK/dont-repeat-yourself-component-building-block/assets/94745953/3bb2395e-d764-4c7f-ad85-8f1c29f94cf6">
+
+
+# Geburuik:
 If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
@@ -14,7 +18,7 @@ npm create svelte@latest
 npm create svelte@latest my-app
 ```
 
-## Developing
+Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
@@ -25,7 +29,7 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+Building
 
 To create a production version of your app:
 
