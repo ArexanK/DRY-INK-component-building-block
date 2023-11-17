@@ -1,6 +1,6 @@
 <script>
-import Carousel from "../lib/components/Carousel.svelte";
+import Carrousel from "../lib/components/Carrousel.svelte";
 </script>
 
 
-<Carousel />
+<Carrousel />

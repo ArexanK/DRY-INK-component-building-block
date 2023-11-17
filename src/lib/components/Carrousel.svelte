@@ -1,39 +1,39 @@
-<!---Carousel component-->
-<section class="carousel">
+
+<section class="carrousel">
     <h2>Stay up to date</h2>
-    <div class="carousel-section" role="region" aria-label="Carousel" tabindex="0">
-        <article class="carousel-item" aria-hidden="false">
-            <div class="carousel-item-image">
-                <img src="/assets/image 252.png" alt="children playing">
+    <div class="carrousel-section" role="region" aria-label="Carousel" tabindex="0">
+        <article class="carrousel-item" aria-hidden="false">
+            <div class="carrousel-item-image">
+                <enhanced:img src= "./assets/image 252.png" alt="children playing"/> 
             </div>
             <h3>Iaculis nulla a nam pharetra augue congue.</h3>
         </article>
-        <article class="carousel-item" aria-hidden="false">
-            <div class="carousel-item-image">
+        <article class="carrousel-item" aria-hidden="false">
+            <div class="carrousel-item-image">
                 <img src="/assets/image 253.png" alt="children playing">
             </div>
             <h3>Iaculis nulla a nam pharetra augue congue.</h3>
         </article>
-        <article class="carousel-item" aria-hidden="false">
-            <div class="carousel-item-image">
+        <article class="carrousel-item" aria-hidden="false">
+            <div class="carrousel-item-image">
                 <img src="/assets/image 254.png" alt="children playing">
             </div>
             <h3>Iaculis nulla a nam pharetra augue congue.</h3>
         </article>
-        <article class="carousel-item" aria-hidden="false">
-            <div class="carousel-item-image">
+        <article class="carrousel-item" aria-hidden="false">
+            <div class="carrousel-item-image">
                 <img src="/assets/image 252.png" alt="children playing">
             </div>
             <h3>Iaculis nulla a nam pharetra augue congue.</h3>
         </article>
-        <article class="carousel-item" aria-hidden="false">
-            <div class="carousel-item-image">
+        <article class="carrousel-item" aria-hidden="false">
+            <div class="carrousel-item-image">
                 <img src="/assets/image 253.png" alt="children playing">
             </div>
             <h3>Iaculis nulla a nam pharetra augue congue.</h3>
         </article>
-        <article class="carousel-item" aria-hidden="false">
-            <div class="carousel-item-image">
+        <article class="carrousel-item" aria-hidden="false">
+            <div class="carrousel-item-image">
                 <img src="/assets/image 254.png" alt="children playing">
             </div>
             <h3>Iaculis nulla a nam pharetra augue congue.</h3>
