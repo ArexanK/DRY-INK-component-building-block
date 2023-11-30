@@ -56,13 +56,14 @@ h3 {
   font-family: "Kirang Haerang";
 }
 
-.carrousel > h2 {
+.carrousel h2 {
   font-family: var(--paragraph-font);
   font-weight: 200;
   line-height: 0.9em;
   text-align: center;
   font-size: clamp(24px, 3.8vw, 50px);
 }
+
 
 .carrousel {
   width: 100%;
