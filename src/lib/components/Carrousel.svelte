@@ -1,7 +1,7 @@
 
 <section class="carrousel">
     <h2>Stay up to date</h2>
-    <div class="carrousel-section" role="region" aria-label="Carousel" tabindex="0">
+    <div class="carrousel-section" role="region" aria-label="Carousel">
         <article class="carrousel-item" aria-hidden="false">
             <div class="carrousel-item-image">
                 <enhanced:img src= "./assets/image 252.png" alt="children playing"/> 
